@@ -1,7 +1,7 @@
 ## Having an invertible matrix, it can be use the following  2¡two functions that will calculate the inverse matrix or retrieve the inverse matrix from the cache.
 ## The Function “makeCacheMatrix” creates a “matrix” That can catche the inverse of the same "Matrix".
 
-## MakeCatcheMatrix its buils by essentially two sub functions
+
 ## 1) set is a function that changes the vector stored in the main function.
 ##2) get is a function that returns the vector x stored in the main function.
 
